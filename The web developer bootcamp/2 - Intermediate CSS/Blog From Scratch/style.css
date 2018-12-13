@@ -1,0 +1,32 @@
+#main-container{
+    float: left;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 20px solid lightgrey;
+}
+.post{
+    border-bottom: 1px solid lightgrey;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+    margin: 3%;  
+    font-weight: 700;
+}
+.publish-date{
+    text-transform: uppercase;
+    color: rgb(0, 174, 255);
+    font-size: 13px;
+    font-weight: 1000;
+    letter-spacing: 2px;
+}
+h1{
+    font-size: 30px;
+    text-transform: capitalize;
+    
+    color: rgb(0, 40, 114); 
+}
+.intro{
+    border-left: 5px solid lightgrey;  
+    padding-left: 10px;
+}
+
